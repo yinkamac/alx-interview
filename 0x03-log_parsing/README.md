@@ -1,1 +1,3 @@
-# log parser
+# 0x03. Log Parsing
+* Algorithm
+* Python
